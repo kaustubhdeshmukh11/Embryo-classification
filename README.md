@@ -18,3 +18,11 @@ Training Set: 210,600 frames (492 videos)
 Validation Set: 44,436 frames (106 videos)
 
 Test Set: 42,392 frames (106 videos)
+
+
+
+Model,Test Accuracy
+VGG16,56.52%
+VGG19,54.00%
+MobileNetV2,45.05%
+InceptionV3,44.44%
