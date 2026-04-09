@@ -14,5 +14,7 @@ This ensures that if the model misclassifies a stage, it is incentivized to pred
 Data Pipeline-
 
 Training Set: 210,600 frames (492 videos)
+
 Validation Set: 44,436 frames (106 videos)
+
 Test Set: 42,392 frames (106 videos)
